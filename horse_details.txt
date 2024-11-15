@@ -1,0 +1,28 @@
+Group: A
+Horse ID: 1, Horse Name: Thunder, Jockey Name: Angathan Peranantham, Age: 5, Breed: Arabian, Race Record: 5/6
+Horse ID: 4, Horse Name: Swift, Jockey Name: Emma White, Age: 8, Breed: Appaloosa, Race Record: 5/8
+Horse ID: 7, Horse Name: Shadow, Jockey Name: Olivia Green, Age: 4, Breed: Quarter Horse, Race Record: 2/3
+Horse ID: 10, Horse Name: Thunder, Jockey Name: Mia Lee, Age: 7, Breed: Mustang, Race Record: 5/6
+Horse ID: 16, Horse Name: Thunderstorm, Jockey Name: Sophia Clark, Age: 4, Breed: Thoroughbred, Race Record: 2/5
+
+Group: B
+Horse ID: 2, Horse Name: Thunderbolt, Jockey Name: Jane Johnson, Age: 4, Breed: Quarter Horse, Race Record: 4/6
+Horse ID: 5, Horse Name: Blaze, Jockey Name: Sarah Brown, Age: 10, Breed: Mustang, Race Record: 3/4
+Horse ID: 8, Horse Name: Spirit, Jockey Name: Ethan Taylor, Age: 8, Breed: Arabian, Race Record: 4/5
+Horse ID: 11, Horse Name: Flash, Jockey Name: Noah Martinez, Age: 6, Breed: Thoroughbred, Race Record: 3/4
+Horse ID: 17, Horse Name: Bolt, Jockey Name: James White, Age: 8, Breed: Quarter Horse, Race Record: 6/7
+
+Group: C
+Horse ID: 3, Horse Name: Stormy, Jockey Name: Mike Davis, Age: 6, Breed: Arabian, Race Record: 2/7
+Horse ID: 6, Horse Name: Midnight, Jockey Name: David Black, Age: 6, Breed: Thoroughbred, Race Record: 6/9
+Horse ID: 12, Horse Name: Cyclone, Jockey Name: Lily Turner, Age: 4, Breed: Quarter Horse, Race Record: 6/7
+Horse ID: 15, Horse Name: Storm, Jockey Name: Daniel Davis, Age: 7, Breed: Mustang, Race Record: 5/8
+Horse ID: 18, Horse Name: Hurricane, Jockey Name: Harper Brown, Age: 6, Breed: Arabian, Race Record: 3/6
+
+Group: D
+Horse ID: 21, Horse Name: Aurora, Jockey Name: Benjamin Turner, Age: 6, Breed: Thoroughbred, Race Record: 4/7
+Horse ID: 22, Horse Name: Blaze, Jockey Name: Isabella Davis, Age: 5, Breed: Quarter Horse, Race Record: 3/4
+Horse ID: 23, Horse Name: Stardust, Jockey Name: Christopher Clark, Age: 7, Breed: Arabian, Race Record: 5/6
+Horse ID: 24, Horse Name: Comet, Jockey Name: Mia White, Age: 8, Breed: Appaloosa, Race Record: 6/8
+Horse ID: 25, Horse Name: Nebula, Jockey Name: Samuel Brown, Age: 4, Breed: Mustang, Race Record: 7/9
+
